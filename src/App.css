@@ -4,3 +4,6 @@
 body {
   background-color: aquamarine;
 }
+.home-page-image {
+  height: calc(100vh - 100px);
+}
