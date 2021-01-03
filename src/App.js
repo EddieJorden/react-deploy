@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div style={headerContainerStyle}>
-        <div style={headerStyles}>My new React App</div>
+        <div style={headerStyles}>I am EDDIE</div>
         <div style={headerStyles}>EddieJorden.tech</div>
       </div>
       <img  className="home-page-image" src={profileImage} alt=""/>
