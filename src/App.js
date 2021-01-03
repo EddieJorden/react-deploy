@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <div style={headerContainerStyle}>
         <div style={headerStyles}>I am EDDIE</div>
-        <div style={headerStyles}>EddieJorden.tech</div>
+        <div style={headerStyles}>this is EddieJorden.tech</div>
       </div>
       <img  className="home-page-image" src={profileImage} alt=""/>
     </div>
